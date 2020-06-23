@@ -16,7 +16,7 @@ resource "google_compute_subnetwork" "public_subnet_1" {
 # allow internal icmp (disable for better security)
 resource "google_compute_firewall" "allow-internal" {
   name    = "${var.app_name}-fw-allow-internal"
-  network = "${google_compute_network.vpc.name}"
+  network = google_compute_network.vpc.name
   allow {
     protocol = "icmp"
   }
