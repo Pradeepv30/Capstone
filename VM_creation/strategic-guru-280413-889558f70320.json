@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "strategic-guru-280413",
+  "private_key_id": "889558f70320a7dd7bfbcdf7a9ce849a59d91ebe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHbpOd9+zm/Xeu\nvxFHlZNTAKvIQ07r+x8z0xVnTAfuLyRO8BSOyggdMr4vW9393Ei/z8qiG8a28tvJ\n5CDkYTzH+otDISxlH43eS5UC3vcBkC04GeT0+gU1F/xVFBafRRqZS/yLfBigGz4j\nZUzrHkJ/REUfqqXluRBGs85CqnM8HYgUeGopCG2KxjjFje6lh5I9z+3rDmb5LdQ5\ndTqQssZDp+j4ec8DZe32CaB+mLSvJiLee0irDyinsA2Fg1Ssf08g8uLfZAghleXM\n5RPqzU22G5jQlzONKe0uGVbDceafKhfuHXqiDLicI38FPkp3GrfTEatuJYykBr62\nHXnVtwvFAgMBAAECggEALmL6Y95UVH/1NAiOENvqGf7Idfqt4zaUUd4Rlua4235M\nkC3IYlP8oin40ZQpJNB1fWPsCluyk0AWvjVZLzWsyQjuFm2jYVv/CAsFfFb3Ff5+\nfhOLzS1QQ8Kx9uoGvwH4R1rEwX7aTXc4s0vvIar2pZpwB4cOMkoizoco/RmfVwZP\n2X6Jm2W+px6oMeUnnB7zZj3uXZI238NqfKH0iwusdIBLAEsAE4aHZYW3QFRSyB6q\nRao0KwlvKYn5a0Tq2UrfxW8r/zr32/OSX+4HXLBihij9ECZT5VXsMkq3SDifoMtY\n2deHgAOcdV2mp6OCfVWPteVsN8OKserZUbInOAKxawKBgQD4UFozTCFs26jU5Y9B\nrY+hWe5AUR8w9ha50mnoEgcHnp/wx1yM+eFJdfUrgoxBK+iPs2E/CjlfOeA4bLaJ\nQ1WpNs9brnb62kj/YK4V4hxZY4EayV9uZ4ZPC76xvcBMgdncWaAb//ZsRNXv+mFg\nymvRc6s1DhQXEzFfued7H31JiwKBgQDNmuHUYjuVxFzKb3GUlmK+Cv9rJ9e+ArdF\nqcSXV4umuhyklvQOU/BtlTrpJfCsCLH+NUMz3qCHklHekItUVEAXnzRoQhTpORoo\n6QnE+x4UGKN9euWlfvPxbdYc+YlVGcukLbZSJ4oCduQGTxG2CzuZgcz0XG2M0Vr/\nTOX7LqyJ7wKBgEb/ImscT0pCm8kTQZxztWdawSYei56CHglPQfyaeuwQzIYZWjrs\njx9j3I9uKg/QMBQ2I43UrIavk45OdvpUCD/zbeI2xcn/c3Og/uU+2wAr1RQFk4WL\nj/k10HYdXMgDMHkyHvcifiCCpfCRVBpKhf1C5yaqOdBHKozGKIspe7b1AoGAcbC2\nNWmIRz2IjcvoA2DRAwMzz339ly0LSLMiaQlYyH3bPsvV8mJJ7V56b9ex6H76ZXXw\nTitJmw22xZop4RyhQC6hnREFXR1dMMgDxe+R50zkgotFlyjHHXY90lHNtcgIyiUY\nzv7cGpbBaheo1IALmcujmG/Ph/FwHwHXnfhmIfMCgYACxB0VXby+taIaJGHtBoam\nQpLn7Ejvz83860JGFwCH4UnVsiSjaqMbaZte5xBZIBaOvNOLdyHMf+qCpHlf1zS1\n8+sQwnqdrsQGgCNaWyfY8u1wyuMRT2+9lxST5oRsqmgjWtLDS9gWj9zEtG4OlWZM\nDL1VUwA5wxAhKW79DfhaZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terra-vm@strategic-guru-280413.iam.gserviceaccount.com",
+  "client_id": "103336292234674935800",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terra-vm%40strategic-guru-280413.iam.gserviceaccount.com"
+}
