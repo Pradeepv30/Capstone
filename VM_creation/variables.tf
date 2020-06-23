@@ -17,7 +17,7 @@ variable "gcp_region_1" {
 }
 
 # define GCP zone
-varibale "gcp_zone_1" {
+variable "gcp_zone_1" {
     type = string
     description = "GCP zone"
 }
