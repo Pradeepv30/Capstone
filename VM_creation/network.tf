@@ -47,7 +47,7 @@ resource "google_compute_firewall" "allow-http" {
 # allow ssh traffic
 resource "google_compute_firewall" "allow-ssh" {
   name = "${var.project_name}-fw-allow-ssh"
-  network = "${google_compute_network.vpc.name}"
+  network = google_compute_network.vpc.name
   allow {
     protocol = "tcp"
     ports    = ["22"]
