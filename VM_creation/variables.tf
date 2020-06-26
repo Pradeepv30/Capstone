@@ -1,8 +1,8 @@
 # define GCP credentials
-variable "gcp_auth_file" {
-    type = string
-    description = "GCP authentication file"
-}
+#variable "gcp_auth_file" {
+#    type = string
+#    description = "GCP authentication file"
+#}
 
 # define GCP project name
 variable "project_name" {
