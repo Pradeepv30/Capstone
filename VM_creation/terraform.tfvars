@@ -1,6 +1,6 @@
 # Application Definition 
-project_name    = "jenkins" #do NOT enter any spaces
-gcp_auth_file   = "../strategic-guru-280413-889558f70320.json"
+project_name    = "strategic-guru-280413" #do NOT enter any spaces
+#gcp_auth_file   = "strategic-guru-280413-f31c829326fc.json"
 #app_environment = "prod" # dev, test, prod, etc
 # app_project   = "mindful-primer-272612"
 

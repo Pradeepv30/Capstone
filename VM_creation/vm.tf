@@ -19,7 +19,7 @@ resource "google_compute_instance" "vm_instance_backend" {
     }
   }
 
-  metadata_startup_script = "apt update; apt-get install git curl software-properties-common -y; git clone https://github.com/Pradeepv30/autoScripts.git; cd autoScripts; ./dockerInstall.sh"
+  metadata_startup_script = "sudo apt update; sudo apt-get install git -y;git clone https://github.com/Pradeepv30/autoScripts.git; cd autoScripts;sudo chmod 777 docker-install.sh; ./docker-install.sh"
 
   network_interface {
     network       = google_compute_network.vpc.name
